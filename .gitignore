@@ -1,0 +1,19 @@
+# Ignore build output directories
+out/
+/out/
+/target/
+/build/
+
+# Ignore IDE-specific files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven dependencies
+/.mvn
