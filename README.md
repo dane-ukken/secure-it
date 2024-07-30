@@ -14,8 +14,9 @@ The encrytped message is stored as multiple files of length 1 KB.
 File 0 stores meta data and remainder of the files store the encrypted message.
 
  Example input:
+![Sample input](https://github.com/dane-ukken/secure-it/blob/main/Assets/input.png)
 
  Sample output:
- 
+![Sample output](https://github.com/dane-ukken/secure-it/blob/main/Assets/output.png)
 
  
